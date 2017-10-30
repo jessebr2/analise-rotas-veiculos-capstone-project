@@ -30,8 +30,3 @@ Para executar o projeto é necessário que se encontre no mesmo diretório os ar
 - veiculos_14e15set_trans.csv
 - veiculosrestricao12e13out_trans.csv
 - veiculosrestricao21e22set_trans.csv
-
-
-```python
-
-```
